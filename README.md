@@ -1,3 +1,9 @@
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600">
+</p>
+
 # 🏆 **Welcome to My GitHub Profile!**
 
 Hi there! I'm **Aymen** 👋  
@@ -10,7 +16,7 @@ Hi there! I'm **Aymen** 👋
 - **Tools:** VSCode, Linux   
 
 ## 📫 **How to Reach Me**  
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/mjtbyy-jakob-17a493328/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -29,17 +35,12 @@ Hi there! I'm **Aymen** 👋
 </p>
 
 ## 📈 **GitHub Stats**
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Aymen-x-kdr&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ## 🏆 **GitHub Trophies**
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=Aymen-x-kdr&theme=gruvbox&column=4" alt="GitHub Trophies">
 </p>
 
-## 🚀 **Contribution Graph**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aymen-x-kdr&theme=radical" alt="Contribution Graph">
-</p>
