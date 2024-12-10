@@ -9,8 +9,7 @@ Hi there! I'm **Aymen** 👋
 - **Frameworks & Libraries:** Bootstrap  
 - **Tools:** VSCode, Linux  
 
-## 🌟 **What I'm Working On**  
-- Customizing my GitHub profile  
+## 🌟 **What I'm Working On**   
 - A fitness admin dashboard in PHP and JavaScript  
 - Exploring mobile security for bug bounty hunting  
 
