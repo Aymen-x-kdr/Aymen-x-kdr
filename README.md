@@ -7,11 +7,7 @@ Hi there! I'm **Aymen** 👋
 ## 🛠 **Skills and Tools**  
 - **Languages:** PHP, HTML, CSS, JavaScript  
 - **Frameworks & Libraries:** Bootstrap  
-- **Tools:** VSCode, Linux  
-
-## 🌟 **What I'm Working On**   
-- A fitness admin dashboard in PHP and JavaScript  
-- Exploring mobile security for bug bounty hunting  
+- **Tools:** VSCode, Linux   
 
 ## 📫 **How to Reach Me**  
 <p align="center">
@@ -32,8 +28,18 @@ Hi there! I'm **Aymen** 👋
   </a>
 </p>
 
+## 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aymen-x-kdr&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
-## 🎯 **Fun Facts About Me**  
-- 💬 I speak Algerian dialect fluently.  
-- 🌌 Sagittarius spirit: adventurous and curious!  
-- 🎮 Enjoy coding, gaming, and testing my Ludo project.  
+## 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aymen-x-kdr&theme=gruvbox&column=4" alt="GitHub Trophies">
+</p>
+
+## 🚀 **Contribution Graph**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aymen-x-kdr&theme=radical" alt="Contribution Graph">
+</p>
