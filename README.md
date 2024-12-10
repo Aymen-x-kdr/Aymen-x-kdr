@@ -21,11 +21,11 @@ Hi there! I'm **Aymen** 👋
 ---
 
 ## 📫 **How to Reach Me**  
-- [LinkedIn](#)  
-- [Twitter](#)  
-- Email: example@example.com  
-
----
+- [LinkedIn](https://www.linkedin.com/in/mjtbyy-jakob-17a493328/)  
+- [Facebook](https://www.facebook.com/mjtbyy.jakob)  
+- [Instagram](https://www.instagram.com/aymen_x_x_kdr/)  
+- [Telegram](https://t.me/@Alan_Ziver)  
+- WhatsApp: [+1234567890]()
 
 ## 🎯 **Fun Facts About Me**  
 - 💬 I speak Algerian dialect fluently.  
