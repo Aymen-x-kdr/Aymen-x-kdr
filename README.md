@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🏆 **Welcome to My GitHub Profile!**
 
-<!--
-**Aymen-x-kdr/Aymen-x-kdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Aymen** 👋  
+🎓 Second-year Law student at the University of Algiers  
+💻 Aspiring developer exploring bug bounty, mobile security, and web development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 **Skills and Tools**  
+- **Languages:** PHP, HTML, CSS, JavaScript  
+- **Frameworks & Libraries:** Bootstrap  
+- **Tools:** VSCode, Linux  
+
+---
+
+## 🌟 **What I'm Working On**  
+- Customizing my GitHub profile  
+- A fitness admin dashboard in PHP and JavaScript  
+- Exploring mobile security for bug bounty hunting  
+
+---
+
+## 📫 **How to Reach Me**  
+- [LinkedIn](#)  
+- [Twitter](#)  
+- Email: example@example.com  
+
+---
+
+## 🎯 **Fun Facts About Me**  
+- 💬 I speak Algerian dialect fluently.  
+- 🌌 Sagittarius spirit: adventurous and curious!  
+- 🎮 Enjoy coding, gaming, and testing my Ludo project.  
